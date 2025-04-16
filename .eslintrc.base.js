@@ -43,7 +43,7 @@ module.exports = {
 
     // TODO: remove this override
     'padding-line-between-statements': [
-      'error',
+      'error', //todo remove thie overide 
       {
         blankLine: 'always',
         prev: 'directive',
